@@ -154,7 +154,7 @@ Here's a "line block" (note how whitespace is honored):
 
 and images can be specified like so:
 
-![example image]([https://as1.ftcdn.net/v2/jpg/00/92/53/56/1000_F_92535664_IvFsQeHjBzfE6sD4VHdO8u5OHUSc6yHF.jpg)]"An exemplary image")
+![example image]([[https://as1.ftcdn.net/v2/jpg/00/92/53/56/1000_F_92535664_IvFsQeHjBzfE6sD4VHdO8u5OHUSc6yHF.jpg)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_41026708_example-white-stamp-text-on-red-backgroud.html&psig=AOvVaw2dcyf3a2lQM6_cR5SmWLQi&ust=1700290626919000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCNiS56m6yoIDFQAAAAAdAAAAABAE)]"An exemplary image")
 
 Inline math equation: $\omega = d\phi / dt$. Display
 math should get its own line like so:
