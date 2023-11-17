@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Quick markdown example
-subtitle: This is a quick markdown example
+title: This is example
+subtitle: Literally this is example
 categories: markdown
 tags: [example]
 top: 2
