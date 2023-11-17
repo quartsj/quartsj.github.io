@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: opensource practice
-email: alexjeong2536@gmail.com
-author: quartsj
+ title: opensource practice
+ email: alexjeong2536@gmail.com
+ author: quartsj
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
