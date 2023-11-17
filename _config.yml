@@ -30,7 +30,7 @@ author: quartsj
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
-# * current year: {currentYear}
+# * current year: {2023}
 # * author: {author} (Value is the same as site.author)
 # * copyright: (c) - ©
 # * copyleft: (cleft)
